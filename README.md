@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Movies
 
 Given two files `app.js` and a database file `moviesData.db` consisting of two tables `movie` and `director`.
@@ -189,3 +190,7 @@ Use `npm install` to install the packages.
 # Node.js-5
 Node.js Coding Practice 5 [MOVIES]
 >>>>>>> ad78d021bd1509fabcfc9c5845456167e8a5ecd0
+=======
+# Node.Js-5
+Node.js Coding Practice 5 [MOVIES]
+>>>>>>> f05458aacc100b42ffc233942bfbff25225803e3
